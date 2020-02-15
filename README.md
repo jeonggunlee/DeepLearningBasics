@@ -15,6 +15,6 @@
 ## PPT 자료 (in slides)
 
   - 딥러닝_기초_이론및실습_Part01.pdf
-  - 딥러닝_기초_이론및실습_Part02-CNN.pdf
   - 딥러닝_기초_이론및실습_Part02.pdf
+  - 딥러닝_기초_이론및실습_Part02-CNN.pdf
   - 딥러닝_기초_이론및실습_Part03_의료데이터실습.pdf
