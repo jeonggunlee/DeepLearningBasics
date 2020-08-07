@@ -11,7 +11,7 @@
    - 딥러닝_기초_이론및실습_Part03-CNN.pdf
    - 딥러닝_기초_이론및실습_Part03.pdf
 
-![image](./images/aaa3.jpg){width=250px}
+![image](./images/aaa3.jpg){width=100px}
 
 ## 2차: 일송 재단 직원 및 간호사를 위한 딥러닝 교육
 
